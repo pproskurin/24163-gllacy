@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [chad1924](https://up.htmlacademy.ru/htmlcss/21/user/24163).
-* Наставник: `Александр Горбачев (https://htmlacademy.ru/profile/hrbchv)`.
+* Наставник: [Александр Горбачев] (https://htmlacademy.ru/profile/hrbchv).
 
 ---
 
